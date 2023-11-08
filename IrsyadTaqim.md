@@ -1,13 +1,15 @@
 ## 1.1 Latar Belakang
-Semakin maraknya teknologi informasi
+Semakin maraknya teknologi informasi, kini kegiatan belajar mengajar (KBM) tidak hanya bisa dilakukan secara tatap muka, tetapi bisa juga melalui media digital atau pembelajaran secara online.  pembelajaran online ini banyak dilakukan dengan berbagai platform, ada yang memakai aplikasi komunikasi seperti whatsapp, ada yang memakai apikasi classroom, dan lainnya.
+Di sekolah saya, 
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Sahabat Biologi E-Learning ini adalah aplikasi berbasis web yang 
 
 ## 1.3. Branding
 
-bla bla bla
+Aplikasi ini bisa digunakan untuk media utama kegiatan belajar mengajar pada suatu institusi sekolah ataupun bimbel.
+Aplikasi ini jua disusun dengan tampilan yang sederhana dan juga pengalaman pembelajaran yang interaktif sehingga memudahkan siswa untuk belajar dan juga memudahkan guru untuk mengelola data.
 
 ## 2. User Story
 

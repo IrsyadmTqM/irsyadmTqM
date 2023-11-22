@@ -1,6 +1,5 @@
 ## 1.1 Latar Belakang
 Semakin maraknya teknologi informasi, kini kegiatan belajar mengajar (KBM) tidak hanya bisa dilakukan secara tatap muka, tetapi bisa juga melalui media digital atau pembelajaran secara online.  pembelajaran online ini banyak dilakukan dengan berbagai platform, ada yang memakai aplikasi komunikasi seperti whatsapp, ada yang memakai apikasi classroom, dan lainnya.
-Di sekolah saya, 
 
 ## 1.2. Deksripsi Teknologi Informasi
 

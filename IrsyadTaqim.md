@@ -3,12 +3,12 @@ Semakin maraknya teknologi informasi, kini kegiatan belajar mengajar (KBM) tidak
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Sahabat Biologi E-Learning ini adalah aplikasi berbasis web yang 
+Sahabat Biologi E-Learning ini adalah aplikasi berbasis web yang membantu siswa dalam pembelajaran jarak jauh, khususnya dalam pembelajaran biologi. aplikasi ini tidak hanya dapat menampilkan video pembelajaran tetapi juga dapat menjadi tempat pemberian tugas pada siswa, pengumpulan tugas, penilaian penugasan, hingga dapat merekap semua nilai siswa. 
 
 ## 1.3. Branding
 
 Aplikasi ini bisa digunakan untuk media utama kegiatan belajar mengajar pada suatu institusi sekolah ataupun bimbel.
-Aplikasi ini jua disusun dengan tampilan yang sederhana dan juga pengalaman pembelajaran yang interaktif sehingga memudahkan siswa untuk belajar dan juga memudahkan guru untuk mengelola data.
+Aplikasi ini juga disusun dengan tampilan yang sederhana dan juga pengalaman pembelajaran yang interaktif sehingga memudahkan siswa untuk belajar dan juga memudahkan guru untuk mengelola data.
 
 ## 2. User Story
 
